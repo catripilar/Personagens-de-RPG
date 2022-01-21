@@ -1,0 +1,16 @@
+/home/mistert/c#/rpg/bin/Debug/net5.0/rpg
+/home/mistert/c#/rpg/bin/Debug/net5.0/rpg.deps.json
+/home/mistert/c#/rpg/bin/Debug/net5.0/rpg.runtimeconfig.json
+/home/mistert/c#/rpg/bin/Debug/net5.0/rpg.runtimeconfig.dev.json
+/home/mistert/c#/rpg/bin/Debug/net5.0/rpg.dll
+/home/mistert/c#/rpg/bin/Debug/net5.0/ref/rpg.dll
+/home/mistert/c#/rpg/bin/Debug/net5.0/rpg.pdb
+/home/mistert/c#/rpg/obj/Debug/net5.0/rpg.csproj.AssemblyReference.cache
+/home/mistert/c#/rpg/obj/Debug/net5.0/rpg.GeneratedMSBuildEditorConfig.editorconfig
+/home/mistert/c#/rpg/obj/Debug/net5.0/rpg.AssemblyInfoInputs.cache
+/home/mistert/c#/rpg/obj/Debug/net5.0/rpg.AssemblyInfo.cs
+/home/mistert/c#/rpg/obj/Debug/net5.0/rpg.csproj.CoreCompileInputs.cache
+/home/mistert/c#/rpg/obj/Debug/net5.0/rpg.dll
+/home/mistert/c#/rpg/obj/Debug/net5.0/ref/rpg.dll
+/home/mistert/c#/rpg/obj/Debug/net5.0/rpg.pdb
+/home/mistert/c#/rpg/obj/Debug/net5.0/rpg.genruntimeconfig.cache
